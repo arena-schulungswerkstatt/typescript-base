@@ -1,5 +1,7 @@
 # TypeScript Base
 
+![TypeScript-Logo](img/TypeScript.png "TypeScript-Logo")
+
 ## Ziele
 
 * Erlernen der TypeScript-Basics im Selbststudium
