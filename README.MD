@@ -19,4 +19,5 @@
   * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
 
 * Videos
+  * [TypeScript in 4 Minuten](https://www.youtube.com/watch?v=ouzj1nHx2pg)
   * [TypeScript lernen: Eine Einführung in 80 Minuten // deutsch](https://www.youtube.com/watch?v=_CaGUZNEobk&t=2596s)
