@@ -11,6 +11,16 @@
   * Tooling
   * Quellen
 
+## Aufgaben
+
+* 01 - Forke und erstelle ein Projekt
+* 02 - ...
+
+## Quizfragen
+
+  * Warum TypeScript?
+
+
 ## Quellen
 
 * Webseiten
