@@ -13,5 +13,10 @@
 
 ## Quellen
 
-* [typescriptlang.org](https://www.typescriptlang.org/)
-* [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+* Webseiten
+  * [typescriptlang.org](https://www.typescriptlang.org/)
+  * [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+  * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
+
+* Videos
+  * [TypeScript lernen: Eine Einführung in 80 Minuten // deutsch](https://www.youtube.com/watch?v=_CaGUZNEobk&t=2596s)
