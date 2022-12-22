@@ -20,8 +20,7 @@
 
 ## Quizfragen
 
-  * Warum TypeScript?
-
+* [Hier geht es zu den Quizzfragen](/Quizz/quizz.md)
 
 ## Quellen
 
