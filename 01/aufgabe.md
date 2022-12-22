@@ -135,4 +135,13 @@ node index.js
 
 Sum of the two numbers is: 25
 ```
+
+Suche die folgende Zeile und setze ein ```x``` in die eckigen Klammern [ ]:
+````shell
+- [ ] Aufgabe 4 - TypeScript ready
+````
+zu
+````shell
+- [x] Aufgabe 4 - TypeScript ready
+````
 * ``commit & push`` deiner Änderung 
