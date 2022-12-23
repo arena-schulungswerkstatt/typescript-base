@@ -1,4 +1,4 @@
-# Aufgabe 02
+# Aufgabe 02 - Erstelle eine simple TodoList
 
 ## Ziele
 

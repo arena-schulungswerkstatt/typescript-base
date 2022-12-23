@@ -16,7 +16,9 @@
 ## Aufgaben
 
 * [01 - Forke und erstelle ein Projekt](01/aufgabe.md)
-* 02 - ...
+* [02 - Erstelle eine simple TodoList](02/aufgabe.md)
+* [03 - Konvertiere ein Node Projekt](03/aufgabe.md)
+* [04 - Konvertiere ein Express Projekt](04/aufgabe.md)
 
 ## Quizfragen
 
