@@ -36,4 +36,4 @@ coverage
 /config.json
 /version
 /lib/
-/target/
+target/
