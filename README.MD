@@ -1,6 +1,6 @@
-# TypeScript Base
+# TypeScript Basics
 
-![TypeScript-Logo](img/TypeScript.png "TypeScript-Logo")
+![Schulung-Logo](img/logo.jpg "Schulung-Logo")
 
 ## Ziele
 
@@ -20,7 +20,7 @@
 
 ## Quizfragen
 
-* [Hier geht es zu den Quizzfragen](/Quizz/quizz.md)
+* [Hier geht es zu den Quizfragen](/quiz/quiz.md)
 
 ## Quellen
 
@@ -31,4 +31,6 @@
 
 * Videos
   * [TypeScript in 4 Minuten](https://www.youtube.com/watch?v=ouzj1nHx2pg)
-  * [TypeScript lernen: Eine Einführung in 80 Minuten // deutsch](https://www.youtube.com/watch?v=_CaGUZNEobk&t=2596s)
+  * [TypeScript lernen: Eine Einführung in 80 Minuten // deutsch](https://youtu.be/_CaGUZNEobk)
+    * Der Abschnitt über Klassen kann vernachlässigt werden
+  * [TypeScript Tutorial for Beginners \[2022\] // englisch](https://youtu.be/d56mG7DezGs)
