@@ -1,6 +1,6 @@
 # TypeScript Basics
 
-![Schulung-Logo](img/logo.jpg "Schulung-Logo")
+<img src="img/logo.jpg" width="400">
 
 ## Ziele
 
