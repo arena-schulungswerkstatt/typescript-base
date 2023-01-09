@@ -36,3 +36,4 @@
   * [TypeScript lernen: Eine Einführung in 80 Minuten // deutsch](https://youtu.be/_CaGUZNEobk)
     * Der Abschnitt über Klassen kann vernachlässigt werden
   * [TypeScript Tutorial for Beginners \[2022\] // englisch](https://youtu.be/d56mG7DezGs)
+  * [Typescript Mistakes Every Junior Developer should Avoid // englisch](https://youtu.be/ZCllX1p763U)
